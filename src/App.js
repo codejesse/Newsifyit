@@ -15,10 +15,11 @@ class App extends Component {
   componentDidMount() {
     fetch('https://newsapi.org/v2/top-headlines?sources=cnn,bbc-news&apiKey=c5c2fb7b62764cd39bd26444ce9c5d70')
       .then(response => response.json())
-      .then(artics => {
+      .then(data => {
         this.setState({
-          news: artics.articles
+          news: data.articles
         })
+        console.log(this.state.news)
       })
   }
 
