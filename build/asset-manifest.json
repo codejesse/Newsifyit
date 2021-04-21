@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/codejesse/Newsifyit/static/css/main.2cdc3cf6.chunk.css",
+    "main.js": "/codejesse/Newsifyit/static/js/main.a6b5673f.chunk.js",
+    "main.js.map": "/codejesse/Newsifyit/static/js/main.a6b5673f.chunk.js.map",
+    "runtime-main.js": "/codejesse/Newsifyit/static/js/runtime-main.decfcdbd.js",
+    "runtime-main.js.map": "/codejesse/Newsifyit/static/js/runtime-main.decfcdbd.js.map",
+    "static/css/2.4b925439.chunk.css": "/codejesse/Newsifyit/static/css/2.4b925439.chunk.css",
+    "static/js/2.608fdca3.chunk.js": "/codejesse/Newsifyit/static/js/2.608fdca3.chunk.js",
+    "static/js/2.608fdca3.chunk.js.map": "/codejesse/Newsifyit/static/js/2.608fdca3.chunk.js.map",
+    "static/js/3.c01e249d.chunk.js": "/codejesse/Newsifyit/static/js/3.c01e249d.chunk.js",
+    "static/js/3.c01e249d.chunk.js.map": "/codejesse/Newsifyit/static/js/3.c01e249d.chunk.js.map",
+    "index.html": "/codejesse/Newsifyit/index.html",
+    "static/css/2.4b925439.chunk.css.map": "/codejesse/Newsifyit/static/css/2.4b925439.chunk.css.map",
+    "static/css/main.2cdc3cf6.chunk.css.map": "/codejesse/Newsifyit/static/css/main.2cdc3cf6.chunk.css.map",
+    "static/js/2.608fdca3.chunk.js.LICENSE.txt": "/codejesse/Newsifyit/static/js/2.608fdca3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.decfcdbd.js",
+    "static/css/2.4b925439.chunk.css",
+    "static/js/2.608fdca3.chunk.js",
+    "static/css/main.2cdc3cf6.chunk.css",
+    "static/js/main.a6b5673f.chunk.js"
+  ]
+}
